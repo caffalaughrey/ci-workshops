@@ -18,7 +18,7 @@ Ideally, you'll be able to apply this to any project!
 5. Edit `.travis.yml`.  Since this is a Python project, use the
 [Travis documentation](https://docs.travis-ci.com/user/languages/python/) to prepare this file.
 6. Add your files, commit, and push this branch.
-7. Navigate to https://travis-ci.org/<your user>/ci-workshops, sit back, and wait for your build to complete. If it
+7. Navigate to https://travis-ci.org&lt;your user&gt;/ci-workshops, sit back, and wait for your build to complete. If it
 fails, troubleshoot and repeat steps 6-7!  You can troubleshoot by clicking into a failed job like
 [this one](https://travis-ci.org/caffalaughrey/ci-workshops/jobs/384779290), then inspecting the logs.
 
