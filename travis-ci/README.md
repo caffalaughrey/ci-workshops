@@ -1,5 +1,7 @@
 # Travis CI Workshop
 
+[![Build Status](https://travis-ci.org/ccheevers/ci-workshops.svg?branch=travis-ci-workshop)](https://travis-ci.org/ccheevers/ci-workshops)
+
 The purpose of the workshop is to get a working build of this sample repository up and running.
 Ideally, you'll be able to apply this to any project!
 
