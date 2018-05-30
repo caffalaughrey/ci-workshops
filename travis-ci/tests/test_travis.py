@@ -6,4 +6,4 @@ def test_hello_world_works():
 
 
 def test_goodbye_world_works():
-    assert TravisCIWorkshop.say_hello() == "Goodbye, cruel world!"
+    assert TravisCIWorkshop.say_goodbye() == "Goodbye, cruel world!"
