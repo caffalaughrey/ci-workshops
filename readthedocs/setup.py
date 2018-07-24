@@ -12,6 +12,7 @@ setup(name='ReadthedocsExample',
       install_requires=[
           'pytest',
           'pytest-runner',
-          'responses'],
+          'responses',
+          'sphinx'],
       tests_require=['pytest']
       )

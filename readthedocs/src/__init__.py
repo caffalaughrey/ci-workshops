@@ -1,23 +1,6 @@
-"""
-.. module:: ReadthedocsExample
-   :synopsis: A module demonstrating readthedocs automation.
-.. moduleauthor:: Aaron Caffrey <acaffrey@salesforce.com>
-"""
+from __future__ import absolute_import
 
+from . import ReadthedocsExample
 
-def say_hello():
-    """ Function that says hello.
-
-        :return: "Hello world!"
-        :rtype: string
-    """
-    return "Hello world!"
-
-
-def say_goodbye():
-    """ Function that says goodbye.
-
-        :return: "Goodbye, cruel world!"
-        :rtype: string
-    """
-    return "Goodbye, cruel world!"
+say_hello = ReadthedocsExample.say_hello
+say_goodbye = ReadthedocsExample.say_goodbye
